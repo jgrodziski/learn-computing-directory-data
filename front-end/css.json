@@ -1,0 +1,44 @@
+{
+    'categoryl0': 'Front End',
+    'categoryl1': 'CSS',
+    'skills': {
+        'beginner': '',
+        'intermediate': '',
+        'confirmed': '',
+        'expert': ''
+    },
+    'trends': {
+        'description': '',
+        'links': []
+    },
+    'articles': {
+        'description': '',
+        'links': [{
+            title: 'title',
+            url: 'url'
+        }, {
+            title: 'title',
+            url: 'url'
+        }]
+    },
+    'courses': {
+        'description': '',
+        'links': [{
+            title: 'title',
+            url: 'url'
+        }, {
+            title: 'title',
+            url: 'url'
+        }]
+    },
+    'books': {
+        'description': '',
+        'links': [{
+            title: 'title',
+            url: 'url'
+        }, {
+            title: 'title',
+            url: 'url'
+        }]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    'categoryl0': 'Languages and Programming',
+    'categoryl1': 'Theory of Computation',
+    'skills': {
+        'beginner': '',
+        'intermediate': 'Know Models of Computation and <a href="http://en.wikipedia.org/wiki/Computational_complexity_theory">Computational complexity theory</a>',
+        'confirmed': 'Understand the difference between P, NP, NP-Hard and NP-Complete',
+        'expert': 'Understand <a href="http://en.wikipedia.org/wiki/Boolean_satisfiability_problem">SAT</a> (from the point of view of the software engineer, not the computer scientist...)'
+    },
+    'trends': {
+        'description': '',
+        'links': []
+    },
+    'articles': {
+        'description': '',
+        'links': [{
+            title: 'Why and How to start your SICP Trek',
+            url: 'http://hackerretreat.com/why-how-start-sicp/'
+        }, {
+            title: 'Lisp as the Maxwell Equations of Software',
+            url: 'http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/'
+        }, {
+            title: '(How to Write a (Lisp) Interpreter (in Python))',
+            url: 'http://norvig.com/lispy.html'
+        }, {
+            title: '(An ((Even Better) Lisp) Interpreter (in Python))',
+            url: 'http://norvig.com/lispy2.html'
+        }, {
+            title: 'SICP - Interactive Version',
+            url: 'http://xuanji.appspot.com/isicp/'
+        }, {
+            title: 'What is the contribution of lambda calculus to the field of theory of computation? <i class="fa fa-stack-exchange"></i>',
+            url: 'http://cstheory.stackexchange.com/questions/21705/what-is-the-contribution-of-lambda-calculus-to-the-field-of-theory-of-computatio'
+        }, {
+            title: 'Understanding satisfiability (SAT) by Implementing a Simple SAT Solver in Python',
+            url: 'http://sahandsaba.com/understanding-sat-by-implementing-a-simple-sat-solver-in-python.html'
+        }, {
+            title: 'Big-O, How do you calculate/approximate it? <i class="fa fa-stack-overflow"></i>',
+            url: 'http://stackoverflow.com/a/4852666'
+        }, {
+            title: 'Big-O Cheat Sheet',
+            url: 'http://bigocheatsheet.com'
+        }, {
+            title: 'Plain English Explanation of Big-O with Telephone Book Analogy <i class="fa fa-stack-overflow"></i>',
+            url: 'http://stackoverflow.com/a/487278'
+        }, {
+            title: 'A Gentle Introduction to Algorithm Complexity Analysis',
+            url: 'http://discrete.gr/complexity/'
+        }]
+    },
+    'courses': {
+        'description': '',
+        'links': [{
+            title: 'Structure and Interpretation of Computer Programs (SICP) Video Lectures',
+            url: 'http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/'
+        }, {
+            title: 'Fundamentals of Computing',
+            url: 'https://www.coursera.org/specialization/fundamentalscomputing2/37'
+        }]
+    },
+    'books': {
+        'description': '',
+        'links': [{
+            title: 'Structure and Interpretation of Computer Programs <i class="fa fa-file-pdf-o"></i>',
+            url: 'https://github.com/sarabander/sicp-pdf/blob/master/sicp.pdf'
+        }, {
+            title: 'Understanding Computation <i class="fa fa-book"></i> <i class="fa fa-usd"></i>',
+            url: 'http://computationbook.com/'
+        }, {
+            title: 'Introduction to Theory of Computation <i class="fa fa-file-pdf-o"></i>',
+            url: 'http://cg.scs.carleton.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf'
+        }, {
+            title: 'Models of Computation <i class="fa fa-file-pdf-o"></i>',
+            url: 'http://cs.brown.edu/~jes/book/home.html'
+        }, {
+            title: 'Computability and Complexity from a Programming Perspective by Neil D. Jones <i class="fa fa-file-pdf-o"></i>',
+            url: 'www.diku.dk/~neil/comp2book2007/book-whole.pdf'
+        }]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    'categoryl0': 'Machine and OS',
+    'categoryl1': 'OS Fundamentals',
+    'skills': {
+        'beginner': '',
+        'intermediate': '',
+        'confirmed': '',
+        'expert': ''
+    },
+    'trends': {
+        'description': '',
+        'links': []
+    },
+    'articles': {
+        'description': '',
+        'links': [{
+            title: 'Linux Insides',
+            url: 'http://0xax.gitbooks.io/linux-insides/content/'
+        }, {
+            title: 'title',
+            url: 'url'
+        }]
+    },
+    'courses': {
+        'description': '',
+        'links': [{
+            title: 'title',
+            url: 'url'
+        }, {
+            title: 'title',
+            url: 'url'
+        }]
+    },
+    'books': {
+        'description': '',
+        'links': [{
+            title: 'title',
+            url: 'url'
+        }, {
+            title: 'title',
+            url: 'url'
+        }]
+    }
+}
