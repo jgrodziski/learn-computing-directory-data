@@ -1,103 +1,101 @@
-{
-    categoryl0: 'Languages and Programming',
-    categoryl1: 'Data Structures',
-    skills: {
-        'beginner': 'Know basic data structures provided by almost every languages: Array, List, Stack and Map (aka. Dictionary)',
-        'intermediate': 'Able to build, explain and use basic data structures : Array, List, Stack and Map',
-        'confirmed': 'Know the space and time tradeoffs of basic data structures',
-        'expert': 'Knowledge and proficiency to use advanced data structures like: B-trees, Bloom filters, Tries, Fibonacci heaps, etc.'
+{ "articles" : { "description" : "",
+      "links" : [ { "title" : "Data Structure Visualizations",
+            "url" : "http://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+          },
+          { "title" : "Trie Data Structure",
+            "url" : "http://www.toptal.com/java/the-trie-a-neglected-data-structure"
+          },
+          { "title" : "Basic Data Structures and Algorithms in the Linux Kernel <i class=\"fa fa-stack-exchange\"></i>",
+            "url" : "http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773"
+          },
+          { "title" : "What are the lesser known but useful data structures? <i class=\"fa fa-stack-overflow\"></i>",
+            "url" : "http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures?rq=1"
+          },
+          { "title" : "Exotic Data Structures",
+            "url" : "http://concatenative.org/wiki/view/Exotic%20Data%20Structures"
+          },
+          { "title" : "How do I learn Data Structures and Algorithms? <span class=\"social social-quora\"></span>",
+            "url" : "http://www.quora.com/How-do-I-learn-Data-Structures-and-Algorithms-2"
+          },
+          { "title" : "Spatial Data Structures for Better Map Interactions",
+            "url" : "http://chairnerd.seatgeek.com/spatial-data-structures-for-better-map-interactions/"
+          },
+          { "title" : "VP-Tree",
+            "url" : "http://stevehanov.ca/blog/index.php?id=130"
+          },
+          { "title" : "Choosing the right data structure",
+            "url" : "https://mathieularose.com/choosing-the-right-data-structures/"
+          }
+        ]
     },
-    trends: {
-        description: '<a href="http://en.wikipedia.org/wiki/Persistent_data_structure">Persistent Data Structure</a> and <a href="http://en.wikipedia.org/wiki/Category:Probabilistic_data_structures">Probabilistic Data Structures</a> (Bloom Filter, HyperLogLog, etc.)',
-        links: [{
-            title: 'React.js Conf 2015 - Immutable Data and React',
-            url: 'https://www.youtube.com/watch?v=I7IdS-PbEgI'
-        }, {
-            title: 'Probabilistic Data Structures for Web Analytics and Data Mining',
-            url: 'https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/'
-        }, {
-            title: 'HyperLogLog in Redis',
-            url: 'http://antirez.com/news/75'
-        }, {
-            title: 'Why Data Structures Matter?',
-            url: 'https://joelneely.wordpress.com/2011/03/05/why-data-structures-matter/'
-        }]
+  "books" : { "description" : "",
+      "links" : [ { "title" : "opendatastructures.org",
+            "url" : "http://opendatastructures.org/"
+          },
+          { "tags" : [ "Wikibook" ],
+            "thumbnailurl" : "",
+            "title" : "Fundamental Data Structures",
+            "url" : "http://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures"
+          },
+          { "tags" : [ "Free",
+                "registration needed"
+              ],
+            "title" : "Data Structures Succinctly Part 1 (Linked List, Array List, Stack and Queue, Binary Search Tree, Set, Sorting Algorithms)",
+            "url" : "http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1"
+          },
+          { "tags" : [ "Free",
+                "registration needed"
+              ],
+            "title" : "Data Structures Succinctly Part 2 (skip lists, hash table, heap and priority queue, AVL tree)",
+            "url" : "http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2"
+          },
+          { "title" : "Data Structures and Algorithms: Annotated Reference with Examples",
+            "url" : "https://drive.google.com/file/d/0B48k2jhdQ5P2aVlmMFB1UUJLczA/edit?usp=sharing"
+          },
+          { "tags" : [ "Free",
+                "PDF"
+              ],
+            "title" : "Linked List Basics",
+            "url" : "http://cslibrary.stanford.edu/103/LinkedListBasics.pdf"
+          },
+          { "tags" : [ "Wikibook" ],
+            "title" : "Data Structures",
+            "url" : "http://en.wikipedia.org/wiki/Book:Data_structures"
+          },
+          { "title" : "Dictionary of Algorithms and Data Structures",
+            "url" : "http://xlinux.nist.gov/dads/"
+          },
+          { "tags" : [ "Amazon" ],
+            "title" : "Okasaki Purely Functional Data Structures",
+            "url" : "http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504/"
+          }
+        ]
     },
-    articles: {
-        description: '',
-        links: [{
-            title: 'Data Structure Visualizations',
-            url: 'http://www.cs.usfca.edu/~galles/visualization/Algorithms.html'
-        }, {
-            title: 'Trie Data Structure',
-            url: 'http://www.toptal.com/java/the-trie-a-neglected-data-structure'
-        }, {
-            title: 'Basic Data Structures and Algorithms in the Linux Kernel <i class="fa fa-stack-exchange"></i>',
-            url: 'http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773'
-        }, {
-            title: 'What are the lesser known but useful data structures? <i class="fa fa-stack-overflow"></i>',
-            url: 'http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures?rq=1'
-        }, {
-            title: 'Exotic Data Structures',
-            url: 'http://concatenative.org/wiki/view/Exotic%20Data%20Structures'
-        }, {
-            title: 'How do I learn Data Structures and Algorithms? <span class="social social-quora"></span>',
-            url: 'http://www.quora.com/How-do-I-learn-Data-Structures-and-Algorithms-2'
-        }, {
-            title: 'Spatial Data Structures for Better Map Interactions',
-            url: 'http://chairnerd.seatgeek.com/spatial-data-structures-for-better-map-interactions/'
-        }, {
-            title: 'VP-Tree',
-            url: 'http://stevehanov.ca/blog/index.php?id=130'
-        }, {
-            title: 'Choosing the right data structure',
-            url: 'https://mathieularose.com/choosing-the-right-data-structures/'
-
-        }]
+  "categoryl0" : "Languages and Programming",
+  "categoryl1" : "Data Structures",
+  "courses" : { "description" : "",
+      "links" : [ { "title" : "Advanced Data Structures MIT",
+            "url" : "http://courses.csail.mit.edu/6.851/spring12/"
+          } ]
     },
-    'courses': {
-        description: '',
-        links: [{
-            title: 'Advanced Data Structures MIT',
-            url: 'http://courses.csail.mit.edu/6.851/spring12/'
-        }]
+  "skills" : { "beginner" : "Know basic data structures provided by almost every languages: Array, List, Stack and Map (aka. Dictionary)",
+      "confirmed" : "Know the space and time tradeoffs of basic data structures",
+      "expert" : "Knowledge and proficiency to use advanced data structures like: B-trees, Bloom filters, Tries, Fibonacci heaps, etc.",
+      "intermediate" : "Able to build, explain and use basic data structures : Array, List, Stack and Map"
     },
-    'books': {
-        description: '',
-        links: [{
-            title: 'opendatastructures.org',
-            url: 'http://opendatastructures.org/'
-        }, {
-            title: 'Fundamental Data Structures',
-            url: 'http://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures',
-            thumbnailurl: '',
-            tags: ['Wikibook']
-        }, {
-            title: 'Data Structures Succinctly Part 1 (Linked List, Array List, Stack and Queue, Binary Search Tree, Set, Sorting Algorithms)',
-            url: 'http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1',
-            tags: ['Free', 'registration needed']
-        }, {
-            title: 'Data Structures Succinctly Part 2 (skip lists, hash table, heap and priority queue, AVL tree)',
-            url: 'http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2',
-            tags: ['Free', 'registration needed']
-        }, {
-            title: 'Data Structures and Algorithms: Annotated Reference with Examples',
-            url: 'https://drive.google.com/file/d/0B48k2jhdQ5P2aVlmMFB1UUJLczA/edit?usp=sharing'
-        }, {
-            title: 'Linked List Basics',
-            url: 'http://cslibrary.stanford.edu/103/LinkedListBasics.pdf',
-            tags: ['Free', 'PDF']
-        }, {
-            title: 'Data Structures',
-            url: 'http://en.wikipedia.org/wiki/Book:Data_structures',
-            tags: ['Wikibook']
-        }, {
-            title: 'Dictionary of Algorithms and Data Structures',
-            url: 'http://xlinux.nist.gov/dads/'
-        }, {
-            title: 'Okasaki Purely Functional Data Structures',
-            url: 'http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504/',
-            tags: ['Amazon']
-        }]
+  "trends" : { "description" : "<a href=\"http://en.wikipedia.org/wiki/Persistent_data_structure\">Persistent Data Structure</a> and <a href=\"http://en.wikipedia.org/wiki/Category:Probabilistic_data_structures\">Probabilistic Data Structures</a> (Bloom Filter, HyperLogLog, etc.)",
+      "links" : [ { "title" : "React.js Conf 2015 - Immutable Data and React",
+            "url" : "https://www.youtube.com/watch?v=I7IdS-PbEgI"
+          },
+          { "title" : "Probabilistic Data Structures for Web Analytics and Data Mining",
+            "url" : "https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/"
+          },
+          { "title" : "HyperLogLog in Redis",
+            "url" : "http://antirez.com/news/75"
+          },
+          { "title" : "Why Data Structures Matter?",
+            "url" : "https://joelneely.wordpress.com/2011/03/05/why-data-structures-matter/"
+          }
+        ]
     }
 }
