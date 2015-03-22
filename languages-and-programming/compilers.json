@@ -1,119 +1,109 @@
 { "articles" : { "description" : "",
-      "links" : [ { "title" : "Geometry Algorithms",
-            "url" : "http://geomalgorithms.com/algorithms.html"
+      "links" : [ { "title" : "Want to Write a Compiler? Just Read These Two Papers.",
+            "url" : "http://prog21.dadgum.com/30.html"
           },
-          { "title" : "Visualizing Algorithms",
-            "url" : "http://bost.ocks.org/mike/algorithms/"
+          { "title" : "Lets Build a Compiler, by Jack Crenshaw",
+            "url" : "http://compilers.iecc.com/crenshaw/"
           },
-          { "title" : "How to rock an Algorithms Interview?",
-            "url" : "https://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview/"
+          { "title" : "Implementing a JIT Compiled Language with Haskell and LLVM",
+            "url" : "http://www.stephendiehl.com/llvm/"
           },
-          { "title" : "Paxos Algorithm",
-            "url" : "http://harry.me/blog/2014/12/27/neat-algorithms-paxos/"
+          { "title" : "Write you a Haskell",
+            "url" : "http://dev.stephendiehl.com/fun/"
           },
-          { "title" : "Visualizing data structures and algorithms through animation",
-            "url" : "http://www.comp.nus.edu.sg/~stevenha/visualization/index.html"
+          { "title" : "Bootstrapping a simple compiler from nothing",
+            "url" : "http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html"
           },
-          { "title" : "Sorting Algorithm Vizualisation",
-            "url" : "http://sorting.at/"
+          { "title" : "The Bootstrapped Compiler and the Damage Done",
+            "url" : "http://tratt.net/laurie/blog/entries/the_bootstrapped_compiler_and_the_damage_done"
           },
-          { "title" : "Visualizing Machine Learning Algorithms",
-            "url" : "http://mldemos.epfl.ch/"
+          { "title" : "How Difficult is it to Write a Compiler?",
+            "url" : "http://tratt.net/laurie/blog/entries/how_difficult_is_it_to_write_a_compiler"
           },
-          { "title" : "Damn Cool Algorithms Serie",
-            "url" : "http://blog.notdot.net/tag/damn-cool-algorithms"
+          { "title" : "10 Reasons Why Java Now Rocks More Than Ever: Part 1 – The Java Compiler",
+            "url" : "http://zeroturnaround.com/rebellabs/10-reasons-why-java-now-rocks-more-than-ever-part-1-the-java-compiler/"
           },
-          { "title" : "Dictionary of Algorithms and Data Structures",
-            "url" : "http://xlinux.nist.gov/dads/"
+          { "title" : "The race for speed part 2: How JavaScript compilers work",
+            "url" : "http://creativejs.com/2013/06/the-race-for-speed-part-2-how-javascript-compilers-work/"
           },
-          { "title" : "Fundamental Algorithms in Computer Science",
-            "url" : "http://algorithms.openmymind.net/"
+          { "title" : "Join the Compiler Creation Club",
+            "url" : "http://tech.pro/blog/1733/join-the-compiler-creation-club"
           },
-          { "title" : "Didactic and Animated exposition of Algorithms",
-            "url" : "http://www.algomation.com/"
+          { "title" : "How do I create my own programming language and a compiler for it <i class=\"fa fa-stack-exchange\"></i>",
+            "url" : "http://programmers.stackexchange.com/questions/84278/how-do-i-create-my-own-programming-language-and-a-compiler-for-it"
           },
-          { "title" : "A tour of Machine Learning Algorithms",
-            "url" : "http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/"
+          { "title" : "Writing a compiler in Ruby, bottom up",
+            "url" : "http://www.hokstad.com/compiler"
           },
-          { "title" : "The most important Algorithms",
-            "url" : "http://www.risc.jku.at/people/ckoutsch/stuff/e_algorithms.html"
+          { "title" : "cucu: a compiler you can understand (part 1)",
+            "url" : "http://zserge.com/blog/cucu-part1.html"
           },
-          { "title" : "Core Algorithms Deployed <i class=\"fa fa-stack-exchange\"></i>",
-            "url" : "http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed"
+          { "title" : "Learning to Write a Compiler <i class=\"fa fa-stack-overflow\"></i>",
+            "url" : "http://stackoverflow.com/questions/1669/learning-to-write-a-compiler"
           },
-          { "title" : "Great Algorithms That Revolutionized Computing",
-            "url" : "http://en.docsity.com/news/interesting-facts/great-algorithms-revolutionized-computing/"
+          { "title" : "Lisp as the Maxwell Equations of Software",
+            "url" : "http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/"
           },
-          { "title" : "A* Algorithm",
-            "url" : "http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html"
+          { "title" : "(How to Write a (Lisp) Interpreter (in Python))",
+            "url" : "http://norvig.com/lispy.html"
           },
-          { "title" : "Machine Learning is way easier that it looks",
-            "url" : "http://blog.intercom.io/machine-learning-way-easier-than-it-looks/"
+          { "title" : "(An ((Even Better) Lisp) Interpreter (in Python))",
+            "url" : "http://norvig.com/lispy2.html"
           },
-          { "title" : "Neglected machine learning ideas",
-            "url" : "https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/"
+          { "title" : "SICP - Interactive Version",
+            "url" : "http://xuanji.appspot.com/isicp/"
+          },
+          { "title" : "Why and How to start your SICP Trek",
+            "url" : "http://hackerretreat.com/why-how-start-sicp/"
           }
         ]
     },
   "books" : { "description" : "",
-      "links" : [ { "title" : "Algorithms 4th edition",
-            "url" : "http://algs4.cs.princeton.edu/home/"
+      "links" : [ { "title" : "Compilers: Principles, Techniques, and Tools <i class=\"fa fa-book\"></i>",
+            "url" : "http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811"
           },
-          { "title" : "Introduction to Algorithms",
-            "url" : "http://mitpress.mit.edu/books/introduction-algorithms"
+          { "title" : "Engineering a Compiler <i class=\"fa fa-book\"></i>",
+            "url" : "http://www.amazon.com/Engineering-Compiler-Second-Edition-Cooper/dp/012088478X"
           },
-          { "title" : "Algorithm Design Manual [Amazon]",
-            "url" : "http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202"
+          { "title" : "A Nanopass Framework for Compiler Education <i class=\"fa fa-file-pdf-o\"></i>",
+            "url" : "http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf"
           },
-          { "title" : "Algorithm Design Manual [website]",
-            "url" : "http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM"
+          { "title" : "Basic of Compiler Design <i class=\"fa fa-file-pdf-o\"></i>",
+            "url" : "http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/"
           },
-          { "title" : "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
-            "url" : "http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221?&tag=rnwap-20"
+          { "title" : "Compiler Design in C <i class=\"fa fa-file-pdf-o\"></i>",
+            "url" : "http://www.holub.com/software/compiler.design.in.c.html"
           },
-          { "title" : "Text Algorithms",
-            "url" : "http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf"
+          { "title" : "Parsing Techniques - A practical Guide 2nd edition <i class=\"fa fa-file-pdf-o\"></i>",
+            "url" : "http://www.amazon.com/Parsing-Techniques-Practical-Monographs-Computer/dp/1441919015"
           },
-          { "title" : "Foundation of Computer Science",
-            "url" : "http://infolab.stanford.edu/~ullman/focs.html"
+          { "title" : "An incremental approach to compiler construction <i class=\"fa fa-file-pdf-o\"></i>",
+            "url" : "http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf"
           },
-          { "title" : "Elementary Algorithms",
-            "url" : "https://sites.google.com/site/algoxy/home"
-          },
-          { "title" : "Programming Pearls",
-            "url" : "http://www.cs.bell-labs.com/cm/cs/pearls/"
-          },
-          { "title" : "Data Structures and Algorithm Analysis in Java",
-            "url" : "http://people.cs.vt.edu/~shaffer/Book/Java3e20120102.pdf"
+          { "title" : "Compiler Construction by Niklaus Wirth, 2005 edition <i class=\"fa fa-file-pdf-o\"></i>",
+            "url" : "http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf"
           }
         ]
     },
   "categoryl0" : "Languages and Programming",
-  "categoryl1" : "Algorithms",
+  "categoryl1" : "Compilers Fundamentals",
   "courses" : { "description" : "",
-      "links" : [ { "title" : "Algorithms, Part I",
-            "url" : "https://www.coursera.org/course/algs4partI"
+      "links" : [ { "title" : "Structure and Interpretation of Computer Programs (SICP) Video Lectures",
+            "url" : "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/"
           },
-          { "title" : "Algorithms, Part II",
-            "url" : "https://www.coursera.org/course/algs4partII"
-          },
-          { "title" : "Khan Academy Algorithm Course",
-            "url" : "https://www.khanacademy.org/computing/computer-science/algorithms"
-          },
-          { "title" : "MIT - Introduction to Algorithms",
-            "url" : "http://courses.csail.mit.edu/6.006/spring11/notes.shtml"
-          },
-          { "title" : "Basics of Machine Learning",
-            "url" : "http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html"
+          { "title" : "Stanford Compilers",
+            "url" : "https://www.coursera.org/course/compilers"
           }
         ]
     },
   "skills" : { "beginner" : "",
-      "confirmed" : "Tree, Graph, simple greedy and divide and conquer algorithms, is able to understand the relevance of the levels of skills description",
-      "expert" : "Able to recognize and code dynamic programming solutions, good knowledge of graph algorithms, good knowledge of numerical computation algorithms, able to identify NP problems etc.",
-      "intermediate" : "Basic sorting, searching and data structure traversal and retrieval algorithms"
+      "confirmed" : "",
+      "expert" : "",
+      "intermediate" : ""
     },
-  "trends" : { "description" : "<a href=\"http://en.wikipedia.org/wiki/Machine_learning\">Machine Learning</a> and <a href=\"http://yyue.blogspot.fr/2015/01/a-brief-overview-of-deep-learning.html\">Deep Learning</a>",
-      "links" : [  ]
+  "trends" : { "description" : "",
+      "links" : [ { "title" : "What are the latest research trends in compilers and programming languages? <span class=\"social social-quora\"></span>",
+            "url" : "http://www.quora.com/What-are-the-latest-research-trends-in-compilers-and-programming-languages"
+          } ]
     }
 }
