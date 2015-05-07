@@ -1,116 +1,116 @@
 {
-    'categoryl0': 'Languages and Programming',
-    'categoryl1': 'Compilers Fundamentals',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Languages and Programming",
+    "categoryl1": "Compilers Fundamentals",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': [{
-            title: 'What are the latest research trends in compilers and programming languages? <span class="social social-quora"></span>',
-            url: 'http://www.quora.com/What-are-the-latest-research-trends-in-compilers-and-programming-languages'
+    "trends": {
+        "description": "",
+        "links": [{
+            "title": "What are the latest research trends in compilers and programming languages? <span class=\"social social-quora\"></span>",
+            "url": "http://www.quora.com/What-are-the-latest-research-trends-in-compilers-and-programming-languages"
         }]
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'Want to Write a Compiler? Just Read These Two Papers.',
-            url: 'http://prog21.dadgum.com/30.html'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "Want to Write a Compiler? Just Read These Two Papers.",
+            "url": "http://prog21.dadgum.com/30.html"
         }, {
-            title: 'Lets Build a Compiler, by Jack Crenshaw',
-            url: 'http://compilers.iecc.com/crenshaw/'
+            "title": "Lets Build a Compiler, by Jack Crenshaw",
+            "url": "http://compilers.iecc.com/crenshaw/"
         }, {
-            title: 'Implementing a JIT Compiled Language with Haskell and LLVM',
-            url: 'http://www.stephendiehl.com/llvm/'
+            "title": "Implementing a JIT Compiled Language with Haskell and LLVM",
+            "url": "http://www.stephendiehl.com/llvm/"
         }, {
-            title: 'Write you a Haskell',
-            url: 'http://dev.stephendiehl.com/fun/'
+            "title": "Write you a Haskell",
+            "url": "http://dev.stephendiehl.com/fun/"
         }, {
-            title: 'Bootstrapping a simple compiler from nothing',
-            url: 'http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html'
+            "title": "Bootstrapping a simple compiler from nothing",
+            "url": "http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html"
         }, {
-            title: 'The Bootstrapped Compiler and the Damage Done',
-            url: 'http://tratt.net/laurie/blog/entries/the_bootstrapped_compiler_and_the_damage_done'
+            "title": "The Bootstrapped Compiler and the Damage Done",
+            "url": "http://tratt.net/laurie/blog/entries/the_bootstrapped_compiler_and_the_damage_done"
         }, {
-            title: 'How Difficult is it to Write a Compiler?',
-            url: 'http://tratt.net/laurie/blog/entries/how_difficult_is_it_to_write_a_compiler'
+            "title": "How Difficult is it to Write a Compiler?",
+            "url": "http://tratt.net/laurie/blog/entries/how_difficult_is_it_to_write_a_compiler"
         }, {
-            title: '10 Reasons Why Java Now Rocks More Than Ever: Part 1 – The Java Compiler',
-            url: 'http://zeroturnaround.com/rebellabs/10-reasons-why-java-now-rocks-more-than-ever-part-1-the-java-compiler/'
+            "title": "10 Reasons Why Java Now Rocks More Than Ever: Part 1 – The Java Compiler",
+            "url": "http://zeroturnaround.com/rebellabs/10-reasons-why-java-now-rocks-more-than-ever-part-1-the-java-compiler/"
         }, {
-            title: 'The race for speed part 2: How JavaScript compilers work',
-            url: 'http://creativejs.com/2013/06/the-race-for-speed-part-2-how-javascript-compilers-work/'
+            "title": "The race for speed part 2: How JavaScript compilers work",
+            "url": "http://creativejs.com/2013/06/the-race-for-speed-part-2-how-javascript-compilers-work/"
         }, {
-            title: 'Join the Compiler Creation Club',
-            url: 'http://tech.pro/blog/1733/join-the-compiler-creation-club'
+            "title": "Join the Compiler Creation Club",
+            "url": "http://tech.pro/blog/1733/join-the-compiler-creation-club"
         }, {
-            title: 'How do I create my own programming language and a compiler for it <i class="fa fa-stack-exchange"></i>',
-            url: 'http://programmers.stackexchange.com/questions/84278/how-do-i-create-my-own-programming-language-and-a-compiler-for-it'
+            "title": "How do I create my own programming language and a compiler for it <i class=\"fa fa-stack-exchange\"></i>",
+            "url": "http://programmers.stackexchange.com/questions/84278/how-do-i-create-my-own-programming-language-and-a-compiler-for-it"
         }, {
-            title: 'Writing a compiler in Ruby, bottom up',
-            url: 'http://www.hokstad.com/compiler'
+            "title": "Writing a compiler in Ruby, bottom up",
+            "url": "http://www.hokstad.com/compiler"
         }, {
-            title: 'cucu: a compiler you can understand (part 1)',
-            url: 'http://zserge.com/blog/cucu-part1.html'
+            "title": "cucu: a compiler you can understand (part 1)",
+            "url": "http://zserge.com/blog/cucu-part1.html"
         }, {
-            title: 'Learning to Write a Compiler <i class="fa fa-stack-overflow"></i>',
-            url: 'http://stackoverflow.com/questions/1669/learning-to-write-a-compiler'
+            "title": "Learning to Write a Compiler <i class=\"fa fa-stack-overflow\"></i>",
+            "url": "http://stackoverflow.com/questions/1669/learning-to-write-a-compiler"
         }, {
-            title: 'Lisp as the Maxwell Equations of Software',
-            url: 'http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/'
+            "title": "Lisp as the Maxwell Equations of Software",
+            "url": "http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/"
         }, {
-            title: '(How to Write a (Lisp) Interpreter (in Python))',
-            url: 'http://norvig.com/lispy.html'
+            "title": "(How to Write a (Lisp) Interpreter (in Python))",
+            "url": "http://norvig.com/lispy.html"
         }, {
-            title: '(An ((Even Better) Lisp) Interpreter (in Python))',
-            url: 'http://norvig.com/lispy2.html'
+            "title": "(An ((Even Better) Lisp) Interpreter (in Python))",
+            "url": "http://norvig.com/lispy2.html"
         }, {
-            title: 'SICP - Interactive Version',
-            url: 'http://xuanji.appspot.com/isicp/'
+            "title": "SICP - Interactive Version",
+            "url": "http://xuanji.appspot.com/isicp/"
         }, {
-            title: 'Why and How to start your SICP Trek',
-            url: 'http://hackerretreat.com/why-how-start-sicp/'
+            "title": "Why and How to start your SICP Trek",
+            "url": "http://hackerretreat.com/why-how-start-sicp/"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'Structure and Interpretation of Computer Programs (SICP) Video Lectures',
-            url: 'http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/'
+    "courses": {
+        "description": "",
+        "links": [{
+            "title": "Structure and Interpretation of Computer Programs (SICP) Video Lectures",
+            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/"
         }, {
-            title: 'Stanford Compilers',
-            url: 'https://www.coursera.org/course/compilers'
+            "title": "Stanford Compilers",
+            "url": "https://www.coursera.org/course/compilers"
         }]
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'Compilers: Principles, Techniques, and Tools <i class="fa fa-book"></i>',
-            url: 'http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811'
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "Compilers: Principles, Techniques, and Tools <i class=\"fa fa-book\"></i>",
+            "url": "http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811"
         }, {
-            title: 'Engineering a Compiler <i class="fa fa-book"></i>',
-            url: 'http://www.amazon.com/Engineering-Compiler-Second-Edition-Cooper/dp/012088478X'
+            "title": "Engineering a Compiler <i class=\"fa fa-book\"></i>",
+            "url": "http://www.amazon.com/Engineering-Compiler-Second-Edition-Cooper/dp/012088478X"
         }, {
-            title: 'A Nanopass Framework for Compiler Education <i class="fa fa-file-pdf-o"></i>',
-            url: 'http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf'
+            "title": "A Nanopass Framework for Compiler Education <i class=\"fa fa-file-pdf-o\"></i>",
+            "url": "http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf"
         }, {
-            title: 'Basic of Compiler Design <i class="fa fa-file-pdf-o"></i>',
-            url: 'http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/'
+            "title": "Basic of Compiler Design <i class=\"fa fa-file-pdf-o\"></i>",
+            "url": "http://www.diku.dk/hjemmesider/ansatte/torbenm/Basics/"
         }, {
-            title: 'Compiler Design in C <i class="fa fa-file-pdf-o"></i>',
-            url: 'http://www.holub.com/software/compiler.design.in.c.html'
+            "title": "Compiler Design in C <i class=\"fa fa-file-pdf-o\"></i>",
+            "url": "http://www.holub.com/software/compiler.design.in.c.html"
         }, {
-            title: 'Parsing Techniques - A practical Guide 2nd edition <i class="fa fa-file-pdf-o"></i>',
-            url: 'http://www.amazon.com/Parsing-Techniques-Practical-Monographs-Computer/dp/1441919015'
+            "title": "Parsing Techniques - A practical Guide 2nd edition <i class=\"fa fa-file-pdf-o\"></i>",
+            "url": "http://www.amazon.com/Parsing-Techniques-Practical-Monographs-Computer/dp/1441919015"
         }, {
-            title: 'An incremental approach to compiler construction <i class="fa fa-file-pdf-o"></i>',
-            url: 'http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf'
+            "title": "An incremental approach to compiler construction <i class=\"fa fa-file-pdf-o\"></i>",
+            "url": "http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf"
         }, {
-            title: 'Compiler Construction by Niklaus Wirth, 2005 edition <i class="fa fa-file-pdf-o"></i>',
-            url: 'http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf'
+            "title": "Compiler Construction by Niklaus Wirth, 2005 edition <i class=\"fa fa-file-pdf-o\"></i>",
+            "url": "http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf"
         }]
     }
 }

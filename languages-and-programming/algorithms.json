@@ -1,125 +1,125 @@
 {
-    'categoryl0': 'Languages and Programming',
-    'categoryl1': 'Algorithms',
-    'skills': {
-        'beginner': '',
-        'intermediate': 'Basic sorting, searching and data structure traversal and retrieval algorithms',
-        'confirmed': 'Tree, Graph, simple greedy and divide and conquer algorithms, is able to understand the relevance of the levels of skills description',
-        'expert': 'Able to recognize and code dynamic programming solutions, good knowledge of graph algorithms, good knowledge of numerical computation algorithms, able to identify NP problems etc.'
+    "categoryl0": "Languages and Programming",
+    "categoryl1": "Algorithms",
+    "skills": {
+        "beginner": "",
+        "intermediate": "Basic sorting, searching and data structure traversal and retrieval algorithms",
+        "confirmed": "Tree, Graph, simple greedy and divide and conquer algorithms, is able to understand the relevance of the levels of skills description",
+        "expert": "Able to recognize and code dynamic programming solutions, good knowledge of graph algorithms, good knowledge of numerical computation algorithms, able to identify NP problems etc."
     },
-    'trends': {
-        'description': '<a href="http://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a> and <a href="http://yyue.blogspot.fr/2015/01/a-brief-overview-of-deep-learning.html">Deep Learning</a>',
-        'links': []
+    "trends": {
+        "description": "<a href=\"http://en.wikipedia.org/wiki/Machine_learning\">Machine Learning</a> and <a href=\"http://yyue.blogspot.fr/2015/01/a-brief-overview-of-deep-learning.html\">Deep Learning</a>",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'Geometry Algorithms',
-            url: 'http://geomalgorithms.com/algorithms.html'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "Geometry Algorithms",
+            "url": "http://geomalgorithms.com/algorithms.html"
         }, {
-            title: 'Visualizing Algorithms',
-            url: 'http://bost.ocks.org/mike/algorithms/'
+            "title": "Visualizing Algorithms",
+            "url": "http://bost.ocks.org/mike/algorithms/"
         }, {
-            title: 'How to rock an Algorithms Interview?',
-            url: 'https://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview/'
+            "title": "How to rock an Algorithms Interview?",
+            "url": "https://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview/"
         }, {
-            title: 'Paxos Algorithm',
-            url: 'http://harry.me/blog/2014/12/27/neat-algorithms-paxos/'
+            "title": "Paxos Algorithm",
+            "url": "http://harry.me/blog/2014/12/27/neat-algorithms-paxos/"
         }, {
-            title: 'Visualizing data structures and algorithms through animation',
-            url: 'http://www.comp.nus.edu.sg/~stevenha/visualization/index.html'
+            "title": "Visualizing data structures and algorithms through animation",
+            "url": "http://www.comp.nus.edu.sg/~stevenha/visualization/index.html"
         }, {
-            title: 'Sorting Algorithm Vizualisation',
-            url: 'http://sorting.at/'
+            "title": "Sorting Algorithm Vizualisation",
+            "url": "http://sorting.at/"
         }, {
-            title: 'Visualizing Machine Learning Algorithms',
-            url: 'http://mldemos.epfl.ch/'
+            "title": "Visualizing Machine Learning Algorithms",
+            "url": "http://mldemos.epfl.ch/"
         }, {
-            title: 'Damn Cool Algorithms Serie',
-            url: 'http://blog.notdot.net/tag/damn-cool-algorithms'
+            "title": "Damn Cool Algorithms Serie",
+            "url": "http://blog.notdot.net/tag/damn-cool-algorithms"
         }, {
-            title: 'Dictionary of Algorithms and Data Structures',
-            url: 'http://xlinux.nist.gov/dads/'
+            "title": "Dictionary of Algorithms and Data Structures",
+            "url": "http://xlinux.nist.gov/dads/"
         }, {
-            title: 'Fundamental Algorithms in Computer Science',
-            url: 'http://algorithms.openmymind.net/'
+            "title": "Fundamental Algorithms in Computer Science",
+            "url": "http://algorithms.openmymind.net/"
         }, {
-            title: 'Didactic and Animated exposition of Algorithms',
-            url: 'http://www.algomation.com/'
+            "title": "Didactic and Animated exposition of Algorithms",
+            "url": "http://www.algomation.com/"
         }, {
-            title: 'A tour of Machine Learning Algorithms',
-            url: 'http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/'
+            "title": "A tour of Machine Learning Algorithms",
+            "url": "http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/"
         }, {
-            title: 'The most important Algorithms',
-            url: 'http://www.risc.jku.at/people/ckoutsch/stuff/e_algorithms.html'
+            "title": "The most important Algorithms",
+            "url": "http://www.risc.jku.at/people/ckoutsch/stuff/e_algorithms.html"
         }, {
-            title: 'Core Algorithms Deployed <i class="fa fa-stack-exchange"></i>',
-            url: 'http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed',
+            "title": "Core Algorithms Deployed <i class=\"fa fa-stack-exchange\"></i>",
+            "url": "http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed",
         }, {
-            title: 'Great Algorithms That Revolutionized Computing',
-            url: 'http://en.docsity.com/news/interesting-facts/great-algorithms-revolutionized-computing/'
+            "title": "Great Algorithms That Revolutionized Computing",
+            "url": "http://en.docsity.com/news/interesting-facts/great-algorithms-revolutionized-computing/"
         }, {
-            title: 'A* Algorithm',
-            url: 'http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html'
+            "title": "A* Algorithm",
+            "url": "http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html"
         }, {
-            title: 'Machine Learning is way easier that it looks',
-            url: 'http://blog.intercom.io/machine-learning-way-easier-than-it-looks/'
+            "title": "Machine Learning is way easier that it looks",
+            "url": "http://blog.intercom.io/machine-learning-way-easier-than-it-looks/"
         }, {
-            title: 'Neglected machine learning ideas',
-            url: 'https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/'
+            "title": "Neglected machine learning ideas",
+            "url": "https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'Algorithms, Part I',
-            url: 'https://www.coursera.org/course/algs4partI'
+    "courses": {
+        "description": "",
+        "links": [{
+            "title": "Algorithms, Part I",
+            "url": "https://www.coursera.org/course/algs4partI"
         }, {
-            title: 'Algorithms, Part II',
-            url: 'https://www.coursera.org/course/algs4partII'
+            "title": "Algorithms, Part II",
+            "url": "https://www.coursera.org/course/algs4partII"
         }, {
-            title: 'Khan Academy Algorithm Course',
-            url: 'https://www.khanacademy.org/computing/computer-science/algorithms'
+            "title": "Khan Academy Algorithm Course",
+            "url": "https://www.khanacademy.org/computing/computer-science/algorithms"
         }, {
-            title: 'MIT - Introduction to Algorithms',
-            url: 'http://courses.csail.mit.edu/6.006/spring11/notes.shtml'
+            "title": "MIT - Introduction to Algorithms",
+            "url": "http://courses.csail.mit.edu/6.006/spring11/notes.shtml"
         }, {
-            title: 'Basics of Machine Learning',
-            url: 'http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html'
+            "title": "Basics of Machine Learning",
+            "url": "http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html"
         }]
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'Algorithms 4th edition',
-            url: 'http://algs4.cs.princeton.edu/home/'
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "Algorithms 4th edition",
+            "url": "http://algs4.cs.princeton.edu/home/"
         }, {
-            title: 'Introduction to Algorithms',
-            url: 'http://mitpress.mit.edu/books/introduction-algorithms'
+            "title": "Introduction to Algorithms",
+            "url": "http://mitpress.mit.edu/books/introduction-algorithms"
         }, {
-            title: 'Algorithm Design Manual [Amazon]',
-            url: 'http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202'
+            "title": "Algorithm Design Manual [Amazon]",
+            "url": "http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202"
         }, {
-            title: 'Algorithm Design Manual [website]',
-            url: 'http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM'
+            "title": "Algorithm Design Manual [website]",
+            "url": "http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM"
         }, {
-            title: 'Machine Learning: The Art and Science of Algorithms that Make Sense of Data',
-            url: 'http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221?&tag=rnwap-20'
+            "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
+            "url": "http://www.amazon.com/Machine-Learning-Science-Algorithms-Sense/dp/1107422221?&tag=rnwap-20"
         }, {
-            title: 'Text Algorithms',
-            url: 'http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf'
+            "title": "Text Algorithms",
+            "url": "http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf"
         }, {
-            title: 'Foundation of Computer Science',
-            url: 'http://infolab.stanford.edu/~ullman/focs.html'
+            "title": "Foundation of Computer Science",
+            "url": "http://infolab.stanford.edu/~ullman/focs.html"
         }, {
-            title: 'Elementary Algorithms',
-            url: 'https://sites.google.com/site/algoxy/home'
+            "title": "Elementary Algorithms",
+            "url": "https://sites.google.com/site/algoxy/home"
         }, {
-            title: 'Programming Pearls',
-            url: 'http://www.cs.bell-labs.com/cm/cs/pearls/'
+            "title": "Programming Pearls",
+            "url": "http://www.cs.bell-labs.com/cm/cs/pearls/"
         }, {
-            title: 'Data Structures and Algorithm Analysis in Java',
-            url: 'http://people.cs.vt.edu/~shaffer/Book/Java3e20120102.pdf'
+            "title": "Data Structures and Algorithm Analysis in Java",
+            "url": "http://people.cs.vt.edu/~shaffer/Book/Java3e20120102.pdf"
         }]
     }
 }
