@@ -17,11 +17,11 @@
             "title": "A Practical Introduction To Functional Programming",
             "url": "http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming"
         }, {
-            "title": "Category Theory for Beginners",
+            "title": "Category Theory for Beginners <i class=\"fa fa-slideshare\"></i>",
             "url": "http://www.slideshare.net/kenbot/category-theory-for-beginners"
         }, {
             "title": "Why Functional Programming Matters?",
-             "url":   "http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf"
+            "url": "http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf"
         }, {
             "title": "Functional Programming For The Rest of Us",
             "url": "http://www.defmacro.org/ramblings/fp.html"
@@ -31,6 +31,9 @@
         }, {
             "title": "\"Functional Thinking\" serie by Neal Ford on IBM developerWorks",
             "url": "http://www.ibm.com/developerworks/views/java/libraryview.jsp?site_id=1&contentarea_by=Java&sort_by=Date&sort_order=2&start=1&end=20&topic_by=&product_by=&type_by=All%20Types&show_abstract=true&search_by=functional%20thinking"
+        }, {
+            "title": "Functional Programming Patterns <i class=\"fa fa-slideshare\"></i>",
+            "url": "http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt"
         }]
     },
     "courses": {
@@ -39,6 +42,9 @@
     },
     "books": {
         "description": "",
-        "links": []
+        "links": [ {
+            "title": "Functional Programming Books Review",
+             "url":   "http://alexott.net/en/fp/books/"
+        }]
     }
 }
