@@ -1,61 +1,60 @@
 [
     ["Front-End", [
-        ["CSS", ['<a href="http://www.getbootstrap.com/">Bootstrap</a>, 960gs, YUI, Foundation']],
-        ["JS MVC", ['JQuery, Angular, React, ...']],
-        ["Component", ['JSF, Vaadin, Tapestry, GWT']],
-        ["MVC", ['Routage, Templating, Middleware Spring MVC, Play, Servlet/JSP']]
+        ["CSS", ["<a href=\"http://www.getbootstrap.com/\">Bootstrap</a>, 960gs, YUI, Foundation"]],
+        ["JS MVC", ["JQuery, Angular, React, ..."]],
+        ["Component", ["JSF, Vaadin, Tapestry, GWT"]],
+        ["MVC", ["Routage, Templating, Middleware Spring MVC, Play, Servlet/JSP"]]
     ]],
 
-    ['Distributed Systems', [
-        ['Binary RPC', ['legacy: Corba, RMI, new:Thrift, protobuf']],
-        ["Messaging", ['JMS (ActiveMQ), AMQP (RabbitMQ, ZeroMQ), ...']],
-        ["Text RPC", ['WS-*']],
+    ["Distributed Systems", [
+        ["Binary RPC", ["legacy: Corba, RMI, new:Thrift, protobuf"]],
+        ["Messaging", ["JMS (ActiveMQ), AMQP (RabbitMQ, ZeroMQ), ..."]],
         ["Text Resources / REST"],
         ["File Batch Processing"],
         ["SPAN Distributed Systems Fundamentals"]
     ]],
 
     ["Persistence", [
-        ["SPAN ORM", ['Mapper - Active Record - Plain JDBC']],
-        ["Relational", ['Oracle, MySQL, Postgresql, ...']],
-        ["Key-Value", ['Redis, <br>Riak']],
-        ["Document", ['MongoDB, <br>Couchbase']],
-        ["Column", ['BigTable, <br>Cassandra']],
-        ["Graph", ['Neo4j, Titan']],
-        ["Analytics", ['Hadoop, Teradata']],
-        ["In-Memory", ['Memcached']],
-        ["Temporal", ['Datomic']],
-        ["Index", ['ElasticSearch, Solr, Lucene,...']],
+        ["SPAN ORM", ["Mapper - Active Record - Plain JDBC"]],
+        ["Relational", ["Oracle, MySQL, Postgresql, ..."]],
+        ["Key-Value", ["Redis, <br>Riak"]],
+        ["Document", ["MongoDB, <br>Couchbase"]],
+        ["Column", ["BigTable, <br>Cassandra"]],
+        ["Graph", ["Neo4j, Titan"]],
+        ["Analytics", ["Hadoop, Teradata"]],
+        ["In-Memory", ["Memcached"]],
+        ["Temporal", ["Datomic"]],
+        ["Index", ["ElasticSearch, Solr, Lucene,..."]],
         ["SPAN DB Fundamentals", ["Storage, Indexing, Query"]]
     ]],
 
     ["Testing", [
-        ["Unit Testing", ['JUnit, Mockito']],
-        ["BDD", ['JBehave, Cucumber, Fitness, SpecFlow, ...']],
-        ["Advanced Testing", ['Mutating testing, simulation testing, Property-based testing']]
+        ["Unit Testing", ["JUnit, Mockito"]],
+        ["BDD", ["JBehave, Cucumber, Fitness, SpecFlow, ..."]],
+        ["Advanced Testing", ["Mutating testing, simulation testing, Property-based testing"]]
     ]],
 
     ["Development Infrastructure", [
-        ["Build", ['Make, Ant, Maven, Ivy/Gradle']],
-        ["Collaboration Tools", ['Ticket Mgt, Wiki']],
-        ["Source Management", ['Git, SVN, Continuous Integration (Jenkins)']],
-        ["IDE", ['Eclipse, Intellij, Sublime, Emacs/Vi']],
+        ["Build", ["Make, Ant, Maven, Ivy/Gradle"]],
+        ["Collaboration Tools", ["Ticket Mgt, Wiki"]],
+        ["Source Management", ["Git, SVN, Continuous Integration (Jenkins)"]],
+        ["IDE", ["Eclipse, Intellij, Sublime, Emacs/Vi"]],
     ]],
 
     ["Core Services and Libraries", [
-        ["Concurrency", ['Actors, CSP, Thread/lock, ...']],
-        ["Security", ['Authentication, Authorization, Integrity/Confidentiality, Encrypting, Intrusion']],
-        ["AOP", ['AspectJ, Dynamic Proxy']],
-        ["DI", ['Spring, Guice, JEE DI']],
-        ["Transaction", ['ACID, BASE, 2PC']],
-        ["Rules", ['Validation, Business Rules, Logic Programming']],
+        ["Concurrency", ["Actors, CSP, Thread/lock, ..."]],
+        ["Security", ["Authentication, Authorization, Integrity/Confidentiality, Encrypting, Intrusion"]],
+        ["AOP", ["AspectJ, Dynamic Proxy"]],
+        ["DI", ["Spring, Guice, JEE DI"]],
+        ["Transaction", ["ACID, BASE, 2PC"]],
+        ["Rules", ["Validation, Business Rules, Logic Programming"]],
     ]],
 
     ["Languages and Programming", [
-        ["Dynamic / Imperative / OO", ['Python, Ruby, Groovy, Javascript (Coffee, Dart)']],
-        ["Static / Dynamic / FP", ['Lisp, Clojure, Erlang, Haskell, Scala, F#']],
-        ["Static / Imperative / OO", ['Java, C#, C/C++, Go, ...']],
-        ["Others", ['Prolog, ...']],
+        ["Dynamic / Imperative / OO", ["Python, Ruby, Groovy, Javascript (Coffee, Dart)"]],
+        ["Static / Dynamic / FP", ["Lisp, Clojure, Erlang, Haskell, Scala, F#"]],
+        ["Static / Imperative / OO", ["Java, C#, C/C++, Go, ..."]],
+        ["Others", ["Prolog, ..."]],
         ["SPAN Algorithms"],
         ["SPAN Data Structures"],
         ["SPAN Compilers Fundamentals", ["Parsing, Interpretation, Compilation"]],
@@ -63,8 +62,8 @@
     ]],
 
     ["Machine and OS", [
-        ["SPAN Cloud Computing", ['AWS, Heroku']],
-        ["SPAN Virtualization", ['VMWare, Docker, VirtualBox/Vagrant']],
+        ["SPAN Cloud Computing", ["AWS, Heroku"]],
+        ["SPAN Virtualization", ["VMWare, Docker, VirtualBox/Vagrant"]],
         ["SPAN OS Fundamentals", ["FileSystem, Processes, Memory, Networking"]],
         ["SPAN Computer Architecture", ["Transistors, gates, adders, muxes, flip flops, ALUs, control units, caches and RAM"]]
     ]]
