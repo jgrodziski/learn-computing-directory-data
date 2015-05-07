@@ -1,44 +1,89 @@
 {
-    'categoryl0': 'Distributed Systems',
-    'categoryl1': 'Messaging',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Distributed Systems",
+    "categoryl1": "Messaging",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "You Cannot Have Exactly-Once Delivery",
+            "url": "http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Doing the Impossible: Exactly-once Messaging Patterns in Kafka",
+            "url": "http://ben.kirw.in/2014/11/28/kafka-patterns/"
+        }, {
+            "title": "Why is Exactly-Once Messaging Not Possible In A Distributed Queue?",
+            "url": "https://lobste.rs/s/ecjfcm/why_is_exactly-once_messaging_not_possible_in_a_distributed_queue"
+        }, {
+            "title": "Exactly-Once Delivery May Not Be What You Want",
+            "url": "http://brooker.co.za/blog/2014/11/15/exactly-once.html"
+        }, {
+            "title": "Dissecting Message Queues",
+            "url": "http://bravenewgeek.com/dissecting-message-queues/"
+        }, {
+            "title": "Apache Kafka: Next Generation Distributed Messaging System",
+            "url": "http://www.infoq.com/articles/apache-kafka"
+        }, {
+            "title": "ØMQ is just Sockets!",
+            "url": "http://zeromq.org/topics:omq-is-just-sockets"
+        }, {
+            "title": "ZeroMQ: Modern & Fast Networking Stack",
+            "url": "https://www.igvita.com/2010/09/03/zeromq-modern-fast-networking-stack/"
+        }, {
+            "title": "ZeroMQ: Disconnects are Good for You",
+            "url": "http://lucumr.pocoo.org/2012/6/26/disconnects-are-good-for-you/"
+        }, {
+            "title": "ZeroMQ an introduction",
+            "url": "http://nichol.as/zeromq-an-introduction"
+        }, {
+            "title": "Distributed Systems with ZeroMQ",
+            "url": "http://java.dzone.com/articles/distributed-systems-zeromq"
+        }, {
+            "title": "A quick message queue benchmark: ActiveMQ, RabbitMQ, HornetQ, QPID, Apollo…",
+            "url": "http://blog.x-aeon.com/2013/04/10/a-quick-message-queue-benchmark-activemq-rabbitmq-hornetq-qpid-apollo/"
+        }, {
+            "title": "Call me maybe: RabbitMQ",
+            "url": "https://aphyr.com/posts/315-call-me-maybe-rabbitmq"
+        }, {
+            "title": "Message Pack",
+            "url": "http://msgpack.org/"
+        }, {
+            "title": "Actor Model of Messaging",
+            "url": "http://en.wikipedia.org/wiki/Actor_model"
+        }, {
+            "title": "Concurrency and Fault Tolerance Made Easy: An Akka Tutorial with Examples",
+            "url": "http://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "courses": {
+        "description": "",
+        "links": []
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "Enterprise Integration Patterns",
+            "url": "http://www.enterpriseintegrationpatterns.com/"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Camel in Action",
+            "url": "http://www.amazon.com/Camel-Action-Claus-Ibsen/dp/1935182366"
+        }, {
+            "title": "ActiveMQ in Action",
+            "url": "http://www.amazon.com/ActiveMQ-Action-Bruce-Snyder/dp/1933988940"
+        }, {
+            "title": "RabbitMQ in Action: Distributed Messaging for Everyone",
+            "url": "http://www.amazon.com/RabbitMQ-Action-Distributed-Messaging-Everyone/dp/1935182978"
+        }, {
+            "title": "ZeroMQ: Messaging for Many Applications",
+            "url": "http://www.amazon.com/ZeroMQ-Messaging-Applications-Pieter-Hintjens/dp/1449334067"
         }]
     }
 }

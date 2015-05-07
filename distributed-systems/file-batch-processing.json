@@ -1,44 +1,65 @@
 {
-    'categoryl0': 'Distributed Systems',
-    'categoryl1': 'File Batch Processing',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Distributed Systems",
+    "categoryl1": "File Batch Processing",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "Spring Batch",
+            "url": "http://projects.spring.io/spring-batch/"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Apache Spark Overview",
+            "url": "https://spark.apache.org/docs/latest/"
+        }, {
+            "title": "Hadoop Toolbox: When to Use What",
+            "url": "http://smartdatacollective.com/mtariq/120791/hadoop-toolbox-when-use-what"
+        }, {
+            "title": "Command-line tools can be 235x faster than your Hadoop cluster",
+            "url": "http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html"
+        }, {
+            "title": "Sed - An Introduction and Tutorial ",
+            "url": "http://www.grymoire.com/Unix/sed.html"
+        }, {
+            "title": "World's best introduction to sed",
+            "url": "http://www.catonmat.net/blog/worlds-best-introduction-to-sed/"
+        }, {
+            "title": "Awk in 20 Minutes",
+            "url": "http://ferd.ca/awk-in-20-minutes.html"
+        }, {
+            "title": "Why you should learn just a little Awk - An Awk Tutorial by Example",
+            "url": "http://gregable.com/2010/09/why-you-should-know-just-little-awk.html#"
+        }, {
+            "title": "A Crash Course In AWK",
+            "url": "https://www.bignerdranch.com/blog/a-crash-course-in-awk/"
+        }, {
+            "title": "Useful Unix commands for exploring data",
+            "url": "http://datavu.blogspot.fr/2014/08/useful-unix-commands-for-exploring-data.html"
+        }, {
+            "title": "Introduction to text manipulation on UNIX-based systems",
+            "url": "http://www.ibm.com/developerworks/aix/library/au-unixtext/index.html"
+        }, {
+            "title": "Unix commands for data science",
+            "url": "http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "courses": {
+        "description": "",
+        "links": []
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "Spring Batch in Action",
+            "url": "http://www.amazon.com/Spring-Batch-Action-Arnaud-Cogoluegnes/dp/1935182951"
         }]
     }
 }

@@ -1,44 +1,86 @@
 {
-    'categoryl0': 'Development Infrastructure',
-    'categoryl1': 'Source Management',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Development Infrastructure",
+    "categoryl1": "Source Management",
+    "skills": {
+        "beginner": "Know basics of a local (rcs) or centralized source control (svn): adding, commit. fetching",
+        "intermediate": "Know branching and merging mechanisms, know basics of decentralized source control systems",
+        "confirmed": "Know source control workflows",
+        "expert": "Know the internal working of source control management system"
     },
-    'trends': {
-        'description': '',
-        'links': []
-    },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "trends": {
+        "description": "",
+        "links": [{
+            "title": "Version Control Software in 2014: What are your options?",
+            "url": "http://www.sitepoint.com/version-control-software-2014-what-options/"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Abandon your DVCS and return to sanity (or \"Why git is successful?\")",
+            "url": "http://bitquabit.com/post/unorthodocs-abandon-your-dvcs-and-return-to-sanity/"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "A visual guide to Version Control",
+            "url": "http://betterexplained.com/articles/a-visual-guide-to-version-control/"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Intro to Distributed Version Control",
+            "url": "http://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/"
+        }, {
+            "title": "Git interactive Cheatsheet - the one I use everytime",
+            "url": "http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;"
+        }, {
+            "title": "Git from the inside out",
+            "url": "https://codewords.recurse.com/issues/two/git-from-the-inside-out"
+        }, {
+            "title": "Git Magic",
+            "url": "http://www-cs-students.stanford.edu/~blynn/gitmagic/book.html"
+        }, {
+            "title": "Git is simpler than you think",
+            "url": "http://nfarina.com/post/9868516270/git-is-simpler"
+        }, {
+            "title": "Git Ready - Learn Git one commit at a time",
+            "url": "http://gitready.com"
+        }, {
+            "title": "Git Cheat Sheet",
+            "url": "http://byte.kde.org/~zrusin/git/git-cheat-sheet-large.png"
+        }, {
+            "title": "Git the simple guide",
+            "url": "http://rogerdudler.github.io/git-guide/"
+        }, {
+            "title": "Aha! moments when learning git",
+            "url": "http://betterexplained.com/articles/aha-moments-when-learning-git/"
+        }, {
+            "title": "Git Reference",
+            "url": "http://gitref.org"
+        }, {
+            "title": "Git Immersion",
+            "url": "http://gitimmersion.com"
+        }, {
+            "title": "A visual Git reference",
+            "url": "http://marklodato.github.io/visual-git-guide/index-en.html"
         }]
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "courses": {
+        "description": "",
+        "links": [{
+            title: "title",
+            url: "url"
         }, {
-            title: 'title',
-            url: 'url'
+            title: "title",
+            url: "url"
+        }]
+    },
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "Pro Git 2nd Edition - free! (online, PDF, epub, etc.)",
+            "url": "http://git-scm.com/book/en/v2"
+        }, {
+            "title": "Version control with Git",
+            "url": "http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387"
+        }, {
+            "title": "Version Control with Subversion",
+            "url": "http://svnbook.red-bean.com"
         }]
     }
 }

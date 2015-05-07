@@ -1,44 +1,26 @@
 {
-    'categoryl0': 'Distributed Systems',
-    'categoryl1': 'Text RPC',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Distributed Systems",
+    "categoryl1": "Text RPC",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "WS-* specs and implementations are clearly out of fashion but you can still encounter a lot of them in real life.",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "articles": {
+        "description": "",
+        "links": []
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "courses": {
+        "description": "",
+        "links": []
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "books": {
+        "description": "",
+        "links": []
     }
 }

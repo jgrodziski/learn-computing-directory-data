@@ -1,44 +1,41 @@
 {
-    'categoryl0': 'Languages and Programming',
-    'categoryl1': 'Static and Dynamic / Functional Paradigm',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Languages and Programming",
+    "categoryl1": "Static and Dynamic / Functional Paradigm",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'Category theory for beginners',
-            url: 'http://www.slideshare.net/kenbot/category-theory-for-beginners'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "A practical introduction to functional programming",
+            "url": "http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Category theory for beginners",
+            "url": "http://www.slideshare.net/kenbot/category-theory-for-beginners"
+        }, {
+            "title": "Functional Programming For The Rest of Us",
+            "url": "http://www.defmacro.org/ramblings/fp.html"
+        }, {
+            "title": "The Nature of Lisp",
+            "url": "http://www.defmacro.org/ramblings/lisp.html"
+        }, {
+            "title": "\"Functional Thinking\" serie by Neal Ford on IBM developerWorks",
+            "url": "http://www.ibm.com/developerworks/views/java/libraryview.jsp?site_id=1&contentarea_by=Java&sort_by=Date&sort_order=2&start=1&end=20&topic_by=&product_by=&type_by=All%20Types&show_abstract=true&search_by=functional%20thinking"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "courses": {
+        "description": "",
+        "links": []
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "books": {
+        "description": "",
+        "links": []
     }
 }

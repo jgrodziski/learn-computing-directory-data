@@ -1,44 +1,80 @@
 {
-    'categoryl0': 'Distributed Systems',
-    'categoryl1': 'Text Resources - REST',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Distributed Systems",
+    "categoryl1": "Text Resources - REST",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "RESTful web services the basics",
+            "url": "http://www.ibm.com/developerworks/webservices/library/ws-restful/"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Nobody Understands REST or HTTP",
+            "url": "http://blog.steveklabnik.com/posts/2011-07-03-nobody-understands-rest-or-http"
+        }, {
+            "title": "Some People Understand REST and HTTP",
+            "url": "http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http"
+        }, {
+            "title": "Best Practices for Designing a Pragmatic RESTful API",
+            "url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api"
+        }, {
+            "title": "Some REST best practices",
+            "url": "https://bourgeois.me/rest/"
+        }, {
+            "title": "Richardson REST Maturity Model",
+            "url": "http://martinfowler.com/articles/richardsonMaturityModel.html"
+        }, {
+            "title": "REST Hooks: lightweight subscription layer on top of REST API.",
+            "url": "http://resthooks.org/"
+        }, {
+            "title": "REST API Tutorial",
+            "url": "http://www.restapitutorial.com/"
+        }, {
+            "title": "Architectural Styles and the Design of Network-based Software Architectures, Roy Fielding",
+            "url": "http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm"
+        }, {
+            "title": "REST Cookbook",
+            "url": "http://restcookbook.com"
+        }, {
+            "title": "What exactly is RESTful programming? <i class=\"fa fa-stack-overflow\"></i>",
+            "url": "http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming"
+        }, {
+            "title": "How to create REST URLs without verbs? <i class=\"fa fa-stack-overflow\"></i>",
+            "url": "http://stackoverflow.com/questions/1619152/how-to-create-rest-urls-without-verbs/1619677#1619677"
+        }, {
+            "title": "Is using a verb in URL fundamentally incompatible with REST? <i class=\"fa fa-stack-overflow\"></i>",
+            "url": "http://stackoverflow.com/questions/19646989/is-using-a-verb-in-url-fundamentally-incompatible-with-rest?lq=1"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "courses": {
+        "description": "",
+        "links": []
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "REST in Practice: Hypermedia and Systems Architecture",
+            "url": "http://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture/dp/0596805829"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity",
+            "url": "http://www.amazon.com/RESTful-Web-Services-Cookbook-Scalability/dp/0596801688"
+        }, {
+            "title": "RESTful Web APIs",
+            "url": "http://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063"
+        }, {
+            "title": "Building Microservices",
+            "url": "http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/"
+        }, {
+            "title": "Service Design Patterns: Fundamental Design Solutions for SOAP/WSDL and RESTful Web Services",
+            "url": "http://www.amazon.com/Service-Design-Patterns-Fundamental-Solutions/dp/032154420X"
         }]
     }
 }

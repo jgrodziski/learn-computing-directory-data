@@ -1,44 +1,110 @@
 {
-    'categoryl0': 'Distributed Systems',
-    'categoryl1': 'Distributed Systems Fundamentals',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Distributed Systems",
+    "categoryl1": "Distributed Systems Fundamentals",
+    "skills": {
+        "beginner": "Basic knowledge of RPC style communication between two systems",
+        "intermediate": "Know the different communication protocols for distributed systems (RPC and message passing) and the practical implication of distributed systems (failure, centralization, etc.)",
+        "confirmed": "Understand the practical implication of the CAP theorem",
+        "expert": "Has implemented or used consensus solving protocols (Paxos, etc.)"
     },
-    'trends': {
-        'description': '',
-        'links': []
-    },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
+    "trends": {
+        "description": "CAP theorem and consensus algorithms, see the topics of the latest conf on distributed systems like RICON ",
+        "links": [{
+            "title": "RICON 2014 archive",
+            "url": "http://ricon.io/archive/2014/index.html"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "From Mainframe to Microservice: An Introduction to Distributed Systems",
+            "url": "http://www.slideshare.net/TylerTreat/from-mainframe-to-microservice-an-introduction-to-distributed-systems-41004778"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Fallacies of Distributed Computing",
+            "url": "http://en.wikipedia.org/wiki/Fallacies_of_distributed_computing"
+        }, {
+            "title": "There's Just No Getting around It: You're Building a Distributed System",
+            "url": "https://queue.acm.org/detail.cfm?id=2482856"
+        }, {
+            "title": "Distributed Systems for fun and profit",
+            "url": "http://book.mixu.net/distsys/"
+        }, {
+            "title": "Notes on Distributed Systems for Young Bloods",
+            "url": "http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/"
+        }, {
+            "title": "There is No Now. Problems with simultaneity in distributed systems",
+            "url": "http://queue.acm.org/detail.cfm?id=2745385"
+        }, {
+            "title": "Distributed Systems and the End of the API",
+            "url": "http://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/"
+        }, {
+            "title": "Distributed systems theory for the distributed systems engineer",
+            "url": "http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/"
+        }, {
+            "title": "A note on Distributed Computing (1994)",
+            "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628"
+        }, {
+            "title": "The seven Deadly Sins of Distributed Systems",
+            "url": "https://www.usenix.org/legacy/event/worlds04/tech/full_papers/muir/muir.pdf"
+        }, {
+            "title": "The Space Between Theory and Practice in Distributed Systems",
+            "url": "http://brooker.co.za/blog/2014/08/10/the-space-between.html"
+        }, {
+            "title": "Paxos Algorithm",
+            "url": "http://harry.me/blog/2014/12/27/neat-algorithms-paxos/?hn=1"
+        }, {
+            "title": "Raft Consensus Algorithm",
+            "url": "https://raftconsensus.github.io"
+        }, {
+            "title": "How to beat the CAP theorem?",
+            "url": "http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html"
+        }, {
+            "title": "The CAP FAQ",
+            "url": "http://henryr.github.io/cap-faq/"
+        }, {
+            "title": "Errors in Database Systems, Eventual Consistency, and the CAP Theorem",
+            "url": "http://cacm.acm.org/blogs/blog-cacm/83396-errors-in-database-systems-eventual-consistency-and-the-cap-theorem/fulltext"
+        }, {
+            "title": "CAP Theorem revisited",
+            "url": "http://robertgreiner.com/2014/08/cap-theorem-revisited/"
+        }, {
+            "title": "CAP and the Illusion of Choice",
+            "url": "http://bravenewgeek.com/category/distributed-systems-2/"
+        }, {
+            "title": "You Cannot Have Exactly-Once Delivery",
+            "url": "http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/"
         }]
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "courses": {
+        "description": "",
+        "links": [{
+            "title": "Summer School on Distributed Algorithms, Systems, and Programming",
+            "url": "http://research.microsoft.com/en-us/events/msri2012summerschool/"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "MIT Distributed Algorithm",
+            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-852j-distributed-algorithms-fall-2009/"
+        }, {
+            "title": "MIT Distributed Computer Systems Engineering",
+            "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/"
+        }]
+    },
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "Distributed Algorithms, Nancy Lynch",
+            "url": "http://www.amazon.com/exec/obidos/ASIN/1558603484"
+        }, {
+            "title": "Distributed Computing: Fundamentals, Simulations and Advanced Topics",
+            "url": "http://www.amazon.com/exec/obidos/ASIN/0471453242"
+        }, {
+            "title": "Distributed Algorithms: An Intuitive Approach",
+            "url": "http://www.amazon.com/Distributed-Algorithms-An-Intuitive-Approach/dp/0262026775"
+        }, {
+            "title": "Programming Distributed Computing Systems: A Foundational Approach",
+            "url": "http://www.amazon.com/Programming-Distributed-Computing-Systems-Foundational/dp/0262018985"
+        }, {
+            "title": "ZooKeeper: Distributed Process Coordination",
+            "url": "http://www.amazon.com/ZooKeeper-Distributed-Coordination-Flavio-Junqueira/dp/1449361307"
         }]
     }
 }

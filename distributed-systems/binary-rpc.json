@@ -1,44 +1,53 @@
 {
-    'categoryl0': 'Distributed Systems',
-    'categoryl1': 'Binary RPC',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Distributed Systems",
+    "categoryl1": "Binary RPC",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "Trends in binary protocols is clearly towards performance, with <a href=\"https://thrift.apache.org\">Thrift</a>, <a href=\"https://developers.google.com/protocol-buffers/\">Protocol Buffers</a>, <a href=\"https://capnproto.org\">Cap'nProto</a> and <a href=\"http://msgpack.org\">Message Pack</a> leading the trend.",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "Middleware",
+            "url": "http://en.wikipedia.org/wiki/Middleware"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Object Request Broker (Legacy technology, here for culture, but paved the way for newer technologies like protobuf and thrift)",
+             "url":   "http://en.wikipedia.org/wiki/Object_request_broker"
+        }, {
+            "title": "Protocol Buffers, Avro, Thrift & MessagePack",
+            "url": "https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/"
+        }, {
+            "title": "Dealing with Performance Challenges - Optimized Data Formats",
+            "url": "http://www.infoq.com/presentations/Dealing-with-Performance-Challenges-Optimized-Data-Formats"
+        }, {
+            "title": "Thrift vs. Protocol Buffers",
+            "url": "http://stuartsierra.com/2008/07/10/thrift-vs-protocol-buffers"
+        }, {
+            "title": "5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service",
+            "url": "http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/"
+        }, {
+            "title": "Biggest differences of Thrift vs Protocol Buffers?",
+            "url": "http://stackoverflow.com/questions/69316/biggest-differences-of-thrift-vs-protocol-buffers"
+        }, {
+            "title": "Cap'n Proto",
+            "url": "https://capnproto.org"
+        }, {
+            "title": "MessagePack, It's like JSON. but fast and small.",
+            "url": "http://msgpack.org"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "courses": {
+        "description": "",
+        "links": []
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "books": {
+        "description": "",
+        "links": []
     }
 }
