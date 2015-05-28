@@ -63,11 +63,8 @@
     "courses": {
         "description": "",
         "links": [{
-            title: "title",
-            url: "url"
-        }, {
-            title: "title",
-            url: "url"
+            "title": "Try Git from CodeSchool",
+            "url": "https://try.github.io/levels/1/challenges/1"
         }]
     },
     "books": {
