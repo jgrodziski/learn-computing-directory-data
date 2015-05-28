@@ -4,11 +4,11 @@
     "skills": {
         "beginner": "Know basics of a local (rcs) or centralized source control (svn): adding, commit. fetching",
         "intermediate": "Know branching and merging mechanisms, know basics of decentralized source control systems",
-        "confirmed": "Know source control workflows",
+        "confirmed": "Know source control workflows like git flow",
         "expert": "Know the internal working of source control management system"
     },
     "trends": {
-        "description": "",
+        "description": "<a href=\"https://git-scm.com\">Git</a> is here to stay but different workflows (aka. \"branching models\"), like <a href=\"http://nvie.com/posts/a-successful-git-branching-model/\">git flow</a>, are at play",
         "links": [{
             "title": "Version Control Software in 2014: What are your options?",
             "url": "http://www.sitepoint.com/version-control-software-2014-what-options/"
