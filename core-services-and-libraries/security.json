@@ -1,44 +1,29 @@
 {
-    'categoryl0': 'Core Services and Libraries',
-    'categoryl1': 'Security',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Core Services and Libraries",
+    "categoryl1": "Security",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "The Definitive Guide to Form-Based Website Authentication <i class=\"fa fa-stack-overflow\"></i>",
+            "url": "http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication?rq=1"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "courses": {
+        "description": "",
+        "links": []
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
+    "books": {
+        "description": "",
+        "links": []
     }
 }

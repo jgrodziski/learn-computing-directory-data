@@ -1,44 +1,35 @@
 {
-    'categoryl0': 'Testing',
-    'categoryl1': 'Unit Testing',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Testing",
+    "categoryl1": "Unit Testing",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": []
+    },
+    "courses": {
+        "description": "",
+        "links": [{
+            "title": "Udacity - Software Testing Methods",
+            "url": "https://www.udacity.com/course/cs258"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "Udacity - Software Debugging",
+            "url": "https://www.udacity.com/course/cs259"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
-        }]
-    },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
-        }, {
-            title: 'title',
-            url: 'url'
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "Free Software Testing Books",
+            "url": "https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md"
         }]
     }
 }

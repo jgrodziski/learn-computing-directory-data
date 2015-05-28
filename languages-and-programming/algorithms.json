@@ -32,6 +32,9 @@
             "title": "Sorting Algorithm Vizualisation",
             "url": "http://sorting.at/"
         }, {
+            "title": "Visualizing String Matching Algorithms",
+            "url": "http://whocouldthat.be/visualizing-string-matching/"
+        }, {
             "title": "Visualizing Machine Learning Algorithms",
             "url": "http://mldemos.epfl.ch/"
         }, {
@@ -67,6 +70,9 @@
         }, {
             "title": "Neglected machine learning ideas",
             "url": "https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/"
+        }, {
+            "title": "Top 10 Data Mining Algorithms in Plain English",
+            "url": "http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/"
         }]
     },
     "courses": {
@@ -82,7 +88,7 @@
             "url": "https://www.khanacademy.org/computing/computer-science/algorithms"
         }, {
             "title": "MIT - Introduction to Algorithms",
-            "url": "http://courses.csail.mit.edu/6.006/spring11/notes.shtml"
+            "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm"
         }, {
             "title": "Basics of Machine Learning",
             "url": "http://homepages.inf.ed.ac.uk/vlavrenk/iaml.html"
