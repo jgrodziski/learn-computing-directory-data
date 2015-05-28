@@ -65,6 +65,9 @@
             "title": "A* Algorithm",
             "url": "http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html"
         }, {
+            "title": "Path Finding (like A*) Algorithm visualization",
+            "url": "http://qiao.github.io/PathFinding.js/visual/"
+        }, {
             "title": "Machine Learning is way easier that it looks",
             "url": "http://blog.intercom.io/machine-learning-way-easier-than-it-looks/"
         }, {
