@@ -126,6 +126,9 @@
         }, {
             "title": "Data Structures and Algorithm Analysis in Java",
             "url": "http://people.cs.vt.edu/~shaffer/Book/Java3e20120102.pdf"
+        }, {
+            "title": "Clever Algorithms",
+            "url": "http://www.cleveralgorithms.com"
         }]
     }
 }
