@@ -14,11 +14,11 @@
     "articles": {
         "description": "",
         "links": [{
-            title: "Linux Insides",
-            url: "http://0xax.gitbooks.io/linux-insides/content/"
+            "title": "Linux Insides",
+            "url": "http://0xax.gitbooks.io/linux-insides/content/"
         }, {
-            title: "title",
-            url: "url"
+            "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)",
+            "url": "http://www.joelonsoftware.com/articles/Unicode.html"
         }]
     },
     "courses": {
@@ -30,12 +30,6 @@
     },
     "books": {
         "description": "",
-        "links": [{
-            title: "title",
-            url: "url"
-        }, {
-            title: "title",
-            url: "url"
-        }]
+        "links": []
     }
 }
