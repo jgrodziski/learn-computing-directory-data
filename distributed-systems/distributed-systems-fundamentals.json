@@ -73,6 +73,9 @@
         }, {
             "title": "You Cannot Have Exactly-Once Delivery",
             "url": "http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/"
+        }, {
+            "title": "Distributed Systems are a UX Problem",
+             "url":   "http://bravenewgeek.com/distributed-systems-are-a-ux-problem/"
         }]
     },
     "courses": {
