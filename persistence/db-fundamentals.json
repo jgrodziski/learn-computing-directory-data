@@ -16,6 +16,9 @@
         "links": [{
             "title": "Using Logs to Build a Solide Data Infrastructure",
             "url": "http://blog.confluent.io/2015/05/27/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/"
+        }, {
+            "title": "Discovering Computer Science Behind Postgres Indexes",
+            "url": "http://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/"
         }]
     },
     "courses": {
