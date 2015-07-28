@@ -135,6 +135,9 @@
         }, {
             "title": "Clever Algorithms",
             "url": "http://www.cleveralgorithms.com"
+        }, {
+            "title": "Neural Networks and Deep Learning",
+             "url":   "http://neuralnetworksanddeeplearning.com/index.html"
         }]
     }
 }
