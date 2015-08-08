@@ -17,6 +17,9 @@
             "title": "Linux Insides",
             "url": "http://0xax.gitbooks.io/linux-insides/content/"
         }, {
+            "title": "Unix Toolbox",
+             "url":   "http://cb.vu/unixtoolbox.xhtml"
+        }, {
             "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)",
             "url": "http://www.joelonsoftware.com/articles/Unicode.html"
         }]
