@@ -78,7 +78,10 @@
             "url": "http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/"
         }, {
             "title": "Visual Introduction to Machine Learning",
-             "url":   "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/"
+            "url": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/"
+        }, {
+            "title": "Visualizing String Matching [(Boyer-Moore Algorithm)",
+            "url": "http://whocouldthat.be/visualizing-string-matching/"
         }]
     },
     "courses": {
@@ -137,7 +140,7 @@
             "url": "http://www.cleveralgorithms.com"
         }, {
             "title": "Neural Networks and Deep Learning",
-             "url":   "http://neuralnetworksanddeeplearning.com/index.html"
+            "url": "http://neuralnetworksanddeeplearning.com/index.html"
         }]
     }
 }
