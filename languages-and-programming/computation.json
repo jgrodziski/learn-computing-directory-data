@@ -75,6 +75,9 @@
         }, {
             "title": "Computability and Complexity from a Programming Perspective by Neil D. Jones <i class=\"fa fa-file-pdf-o\"></i>",
             "url": "www.diku.dk/~neil/comp2book2007/book-whole.pdf"
+        }, {
+            "title": "The Computer Science Handbook",
+            "url": "http://www.thecshandbook.com/public_html/TheComputerScienceHandbook.pdf"
         }]
     }
 }
