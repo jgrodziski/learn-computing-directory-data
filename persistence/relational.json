@@ -20,6 +20,9 @@
         "links": [{
             "title": "Khan Academy SQL interactive tutorials",
             "url": "https://www.khanacademy.org/computing/computer-programming/sql"
+        }, {
+            "title": "How does a Relational Database Work?",
+             "url":   "http://coding-geek.com/how-databases-work/"
         }]
     },
     "books": {

@@ -19,6 +19,12 @@
         }, {
             "title": "Discovering Computer Science Behind Postgres Indexes",
             "url": "http://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/"
+        }, {
+            "title": "How does a Relational Database Work?",
+            "url": "http://coding-geek.com/how-databases-work/"
+        }, {
+            "title": "Architecture of a Database System",
+            "url": "http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf"
         }]
     },
     "courses": {
