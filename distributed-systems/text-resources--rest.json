@@ -52,6 +52,15 @@
         }, {
             "title": "Is using a verb in URL fundamentally incompatible with REST? <i class=\"fa fa-stack-overflow\"></i>",
             "url": "http://stackoverflow.com/questions/19646989/is-using-a-verb-in-url-fundamentally-incompatible-with-rest?lq=1"
+        }, {
+            "title": "Let's Build a Web Server Part 1",
+             "url":   "http://ruslanspivak.com/lsbaws-part1/"
+        }, {
+            "title": "Let's Build a Web Server Part 2",
+             "url":   "http://ruslanspivak.com/lsbaws-part2/"
+        }, {
+            "title": "Let's Build a Web Server Part 3",
+             "url":   "http://ruslanspivak.com/lsbaws-part3/"
         }]
     },
     "courses": {

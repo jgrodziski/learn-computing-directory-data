@@ -76,6 +76,24 @@
         }, {
             "title": "Visualizing Garbage Collection Algorithms",
             "url": "http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/"
+        }, {
+            "title": "Let's Build a Simple Interpreter Part 1",
+             "url":   "http://ruslanspivak.com/lsbasi-part1/"
+        }, {
+            "title": "Let's Build a Simple Interpreter Part 2",
+             "url":   "http://ruslanspivak.com/lsbasi-part2/"
+        }, {
+            "title": "Let's Build a Simple Interpreter Part 3",
+             "url":   "http://ruslanspivak.com/lsbasi-part3/"
+        }, {
+            "title": "Let's Build a Simple Interpreter Part 4",
+             "url":   "http://ruslanspivak.com/lsbasi-part4/"
+        }, {
+            "title": "Let's Build a Simple Interpreter Part 5",
+             "url":   "http://ruslanspivak.com/lsbasi-part5/"
+        }, {
+            "title": "Let's Build a Simple Interpreter Part 6",
+             "url":   "http://ruslanspivak.com/lsbasi-part6/"
         }]
     },
     "courses": {
