@@ -33,6 +33,6 @@
     },
     "books": {
         "description": "",
-        "links": []
+        "links": [{"title": "Readings in Database Systems, 5th Edition by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors", "url":"http://www.redbook.io/"}]
     }
 }
