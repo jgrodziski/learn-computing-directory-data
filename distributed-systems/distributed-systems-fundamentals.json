@@ -111,6 +111,9 @@
         }, {
             "title": "ZooKeeper: Distributed Process Coordination",
             "url": "http://www.amazon.com/ZooKeeper-Distributed-Coordination-Flavio-Junqueira/dp/1449361307"
+        }, {
+            "title": "Distributed Systems for Fun and Profit",
+            "url": "http://book.mixu.net/distsys/single-page.html"
         }]
     }
 }
