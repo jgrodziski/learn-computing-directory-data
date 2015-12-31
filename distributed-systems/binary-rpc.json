@@ -18,7 +18,7 @@
             "url": "http://en.wikipedia.org/wiki/Middleware"
         }, {
             "title": "Object Request Broker (Legacy technology, here for culture, but paved the way for newer technologies like protobuf and thrift)",
-             "url":   "http://en.wikipedia.org/wiki/Object_request_broker"
+            "url": "http://en.wikipedia.org/wiki/Object_request_broker"
         }, {
             "title": "Protocol Buffers, Avro, Thrift & MessagePack",
             "url": "https://www.igvita.com/2011/08/01/protocol-buffers-avro-thrift-messagepack/"
@@ -40,6 +40,9 @@
         }, {
             "title": "MessagePack, It's like JSON. but fast and small.",
             "url": "http://msgpack.org"
+        }, {
+            "title": "Apache Avro",
+            "url": "https://avro.apache.org/"
         }]
     },
     "courses": {

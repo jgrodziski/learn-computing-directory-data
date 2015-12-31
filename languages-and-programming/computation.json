@@ -2,7 +2,7 @@
     "categoryl0": "Languages and Programming",
     "categoryl1": "Theory of Computation",
     "skills": {
-        "beginner": "",
+        "beginner": "Understand what algorithms and data are",
         "intermediate": "Know Models of Computation and <a href=\"http://en.wikipedia.org/wiki/Computational_complexity_theory\">Computational complexity theory</a>",
         "confirmed": "Understand the difference between P, NP, NP-Hard and NP-Complete",
         "expert": "Understand <a href=\"http://en.wikipedia.org/wiki/Boolean_satisfiability_problem\">SAT</a> (from the point of view of the software engineer, not the computer scientist...)"

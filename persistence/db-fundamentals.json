@@ -23,8 +23,11 @@
             "title": "How does a Relational Database Work?",
             "url": "http://coding-geek.com/how-databases-work/"
         }, {
-            "title": "Architecture of a Database System",
+            "title": "Architecture of a Database System - Stonebraker & Hamilton",
             "url": "http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf"
+        }, {
+            "title": "Architecture of a Database System (summary of the previous paper by Stonebraker and Hamilton)",
+            "url": "http://blog.acolyer.org/2015/01/20/architecture-of-a-database-system/"
         }]
     },
     "courses": {
@@ -33,6 +36,9 @@
     },
     "books": {
         "description": "",
-        "links": [{"title": "Readings in Database Systems, 5th Edition by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors", "url":"http://www.redbook.io/"}]
+        "links": [{
+            "title": "Readings in Database Systems, 5th Edition by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors",
+            "url": "http://www.redbook.io/"
+        }]
     }
 }
