@@ -78,22 +78,22 @@
             "url": "http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/"
         }, {
             "title": "Let's Build a Simple Interpreter Part 1",
-             "url":   "http://ruslanspivak.com/lsbasi-part1/"
+            "url": "http://ruslanspivak.com/lsbasi-part1/"
         }, {
             "title": "Let's Build a Simple Interpreter Part 2",
-             "url":   "http://ruslanspivak.com/lsbasi-part2/"
+            "url": "http://ruslanspivak.com/lsbasi-part2/"
         }, {
             "title": "Let's Build a Simple Interpreter Part 3",
-             "url":   "http://ruslanspivak.com/lsbasi-part3/"
+            "url": "http://ruslanspivak.com/lsbasi-part3/"
         }, {
             "title": "Let's Build a Simple Interpreter Part 4",
-             "url":   "http://ruslanspivak.com/lsbasi-part4/"
+            "url": "http://ruslanspivak.com/lsbasi-part4/"
         }, {
             "title": "Let's Build a Simple Interpreter Part 5",
-             "url":   "http://ruslanspivak.com/lsbasi-part5/"
+            "url": "http://ruslanspivak.com/lsbasi-part5/"
         }, {
             "title": "Let's Build a Simple Interpreter Part 6",
-             "url":   "http://ruslanspivak.com/lsbasi-part6/"
+            "url": "http://ruslanspivak.com/lsbasi-part6/"
         }]
     },
     "courses": {
@@ -132,6 +132,9 @@
         }, {
             "title": "Compiler Construction by Niklaus Wirth, 2005 edition <i class=\"fa fa-file-pdf-o\"></i>",
             "url": "http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf"
+        }, {
+            "title": "Modern Compiler Implementation in ML by Andrew W. Appel, 1998 edition <i class=\"fa fa-book\"></i>",
+            "url": "https://www.cs.princeton.edu/~appel/modern/ml/"
         }]
     }
 }
