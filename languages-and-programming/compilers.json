@@ -132,9 +132,6 @@
         }, {
             "title": "Compiler Construction by Niklaus Wirth, 2005 edition <i class=\"fa fa-file-pdf-o\"></i>",
             "url": "http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf"
-        }, {
-            "title": "Modern Compiler Implementation in ML by Andrew W. Appel, 1998 edition <i class=\"fa fa-book\"></i>",
-            "url": "https://www.cs.princeton.edu/~appel/modern/ml/"
         }]
     }
 }

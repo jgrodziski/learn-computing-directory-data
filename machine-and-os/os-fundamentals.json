@@ -22,6 +22,9 @@
         }, {
             "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)",
             "url": "http://www.joelonsoftware.com/articles/Unicode.html"
+        }, {
+            "title": "Fling OS: an Educational Operating System",
+             "url":   "http://www.flingos.co.uk/"
         }]
     },
     "courses": {
