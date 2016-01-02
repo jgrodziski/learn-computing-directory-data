@@ -1,44 +1,44 @@
 {
-    'categoryl0': 'Front End',
-    'categoryl1': 'MVC',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Front End",
+    "categoryl1": "MVC <i class=\"fa fa-wrench\"></i>",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': []
+    "trends": {
+        "description": "",
+        "links": []
     },
-    'articles': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [{
+            "title": "title",
+            "url": "url"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "title",
+            "url": "url"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "courses": {
+        "description": "",
+        "links": [{
+            "title": "title",
+            "url": "url"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "title",
+            "url": "url"
         }]
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "books": {
+        "description": "",
+        "links": [{
+            "title": "title",
+            "url": "url"
         }, {
-            title: 'title',
-            url: 'url'
+            "title": "title",
+            "url": "url"
         }]
     }
 }
