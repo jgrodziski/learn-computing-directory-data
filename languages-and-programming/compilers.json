@@ -2,10 +2,10 @@
     "categoryl0": "Languages and Programming",
     "categoryl1": "Compilers Fundamentals",
     "skills": {
-        "beginner": "",
-        "intermediate": "",
-        "confirmed": "",
-        "expert": ""
+        "beginner": "Know usage of a compiler and/or an interpreter, know the differences between the two",
+        "intermediate": "Know the different parts of a compiler from source code to machine code going through lexer, parser, intermediate representation and generator. Know what a VM and a Garbage Collector is",
+        "confirmed": "Know the subtleties between a compiler, interpreter and VM and the computer architecture behind the target machine code. Know the optimization phase and enough assembly language",
+        "expert": "Has wrote a compiler, interpreter or VM"
     },
     "trends": {
         "description": "",
@@ -94,6 +94,9 @@
         }, {
             "title": "Let's Build a Simple Interpreter Part 6",
             "url": "http://ruslanspivak.com/lsbasi-part6/"
+        }, {
+            "title": "Is Clojure compiled or interpreted? <i class=\"fa fa-stack-overflow\"></i>",
+            "url": "http://stackoverflow.com/questions/5669933/is-clojure-compiled-or-interpreted"
         }]
     },
     "courses": {
