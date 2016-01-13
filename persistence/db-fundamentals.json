@@ -28,6 +28,9 @@
         }, {
             "title": "Architecture of a Database System (summary of the previous paper by Stonebraker and Hamilton)",
             "url": "http://blog.acolyer.org/2015/01/20/architecture-of-a-database-system/"
+        }, {
+            "title": "Introduction to Postgres Physical Storage",
+            "url": "http://rachbelaid.com/introduction-to-postgres-physical-storage/"
         }]
     },
     "courses": {
