@@ -9,37 +9,27 @@
     },
     "trends": {
         "description": "",
-        "links": [ {"title": "New CPU Features since the 80s",
-         "url": "http://danluu.com/new-cpu-features/"}, {
-             "title": "Modern Microprocessors, a 90 minutes guide!",
-              "url":   "http://www.lighterra.com/papers/modernmicroprocessors/"
-         }]
+        "links": [{
+            "title": "New CPU Features since the 80s",
+            "url": "http://danluu.com/new-cpu-features/"
+        }]
     },
     "articles": {
         "description": "",
-        "links": [ {
-            title: "title",
-            url: "url"
+        "links": [{
+            "title": "Modern Microprocessors, a 90 minutes guide!",
+            "url": "http://www.lighterra.com/papers/modernmicroprocessors/"
         }]
     },
     "courses": {
         "description": "",
-        "links": [{
-            title: "title",
-            url: "url"
-        }, {
-            title: "title",
-            url: "url"
-        }]
+        "links": []
     },
     "books": {
         "description": "",
         "links": [{
-            title: "Code: The Hidden Language of Computer Hardware and Software",
-            url: "http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319"
-        }, {
-            title: "title",
-            url: "url"
+            "title": "Code: The Hidden Language of Computer Hardware and Software",
+            "url": "http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319"
         }]
     }
 }
