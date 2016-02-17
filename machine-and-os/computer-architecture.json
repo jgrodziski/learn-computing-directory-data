@@ -1,42 +1,45 @@
 {
-    'categoryl0': 'Machine and OS',
-    'categoryl1': 'Computer Architecture',
-    'skills': {
-        'beginner': '',
-        'intermediate': '',
-        'confirmed': '',
-        'expert': ''
+    "categoryl0": "Machine and OS",
+    "categoryl1": "Computer Architecture",
+    "skills": {
+        "beginner": "",
+        "intermediate": "",
+        "confirmed": "",
+        "expert": ""
     },
-    'trends': {
-        'description': '',
-        'links': [ {title: 'New CPU Features since the 80s',
-         url: 'http://danluu.com/new-cpu-features/'}]
+    "trends": {
+        "description": "",
+        "links": [ {"title": "New CPU Features since the 80s",
+         "url": "http://danluu.com/new-cpu-features/"}, {
+             "title": "Modern Microprocessors, a 90 minutes guide!",
+              "url":   "http://www.lighterra.com/papers/modernmicroprocessors/"
+         }]
     },
-    'articles': {
-        'description': '',
-        'links': [ {
-            title: 'title',
-            url: 'url'
+    "articles": {
+        "description": "",
+        "links": [ {
+            title: "title",
+            url: "url"
         }]
     },
-    'courses': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "courses": {
+        "description": "",
+        "links": [{
+            title: "title",
+            url: "url"
         }, {
-            title: 'title',
-            url: 'url'
+            title: "title",
+            url: "url"
         }]
     },
-    'books': {
-        'description': '',
-        'links': [{
-            title: 'title',
-            url: 'url'
+    "books": {
+        "description": "",
+        "links": [{
+            title: "title",
+            url: "url"
         }, {
-            title: 'title',
-            url: 'url'
+            title: "title",
+            url: "url"
         }]
     }
 }
