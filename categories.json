@@ -65,6 +65,6 @@
         ["SPAN Cloud Computing", ["AWS, Heroku"], "<i class=\"fa fa-wrench\"></i>"],
         ["SPAN Virtualization", ["VMWare, Docker, VirtualBox/Vagrant"], "<i class=\"fa fa-wrench\"></i>"],
         ["SPAN OS Fundamentals", ["FileSystem, Processes, Memory, Networking"]],
-        ["SPAN Computer Architecture", ["Transistors, gates, adders, muxes, flip flops, ALUs, control units, caches and RAM"], "<i class=\"fa fa-wrench\"></i>"]
+        ["SPAN Computer Architecture", ["Transistors, gates, adders, muxes, flip flops, ALUs, control units, caches and RAM"]]
     ]]
 ]

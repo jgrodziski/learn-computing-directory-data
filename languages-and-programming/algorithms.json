@@ -29,7 +29,7 @@
             "title": "Visualizing data structures and algorithms through animation",
             "url": "http://www.comp.nus.edu.sg/~stevenha/visualization/index.html"
         }, {
-            "title": "Sorting Algorithm Vizualisation",
+            "title" : "Sorting Algorithm Vizualisation",
             "url": "http://sorting.at/"
         }, {
             "title": "Visualizing String Matching Algorithms",
